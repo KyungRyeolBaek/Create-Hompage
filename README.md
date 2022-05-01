@@ -37,3 +37,5 @@ Login 버튼을 누르면 로그인이 가능합니다.
 모델에 들어가 모델 학습이 가능합니다.
 
 이미지가 출력부분은 영상에서 확인 가능 합니다.
+
+![image](https://user-images.githubusercontent.com/40240766/166135122-e619231f-f1cc-4268-93db-974f62cbfdac.png)
